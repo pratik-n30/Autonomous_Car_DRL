@@ -79,11 +79,7 @@ The second phase uses transfer learning to adapt the foundational model to new, 
 
 #### **Environments**
 
-This can be donkey-generated-track-v0 or other built-in tracks, such as:
-
-* donkey-warehouse-v0  
-* donkey-avc-sparkfun-v0  
-* donkey-roboracingleague-track-v0
+This can be donkey-generated-track-v0 or other built-in tracks.
 
 #### **Goal**
 

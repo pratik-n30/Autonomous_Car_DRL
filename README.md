@@ -100,3 +100,5 @@ This transfer learning approach significantly speeds up training for the new tra
 
 ## **Results**
 
+https://github.com/user-attachments/assets/85643e23-9530-4245-8471-dd4c984309ee
+<img width="468" height="394" alt="Screenshot 2025-11-01 182742" src="https://github.com/user-attachments/assets/e44a6fe7-bbbd-42b4-a2c1-344161be0d09" />

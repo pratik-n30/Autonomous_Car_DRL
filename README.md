@@ -70,7 +70,7 @@ Learn to stay on the road and manage throttle.
 #### **Process**
 
 1. A new PPO model with a CnnPolicy is created.  
-2. The model is trained from scratch on the donkey-generated-roads-v0 environment for a significant number of timesteps \- 30,000.  
+2. The model is trained from scratch on the donkey-generated-roads-v0 environment for a significant number of timesteps \- 20,000.  
 3. The final foundational model is saved as genroads.zip.
 
 ### **Phase 2: Fine-Tuning (e.g., Model: gentracks.zip)**
